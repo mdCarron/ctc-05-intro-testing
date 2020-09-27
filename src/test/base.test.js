@@ -1,6 +1,12 @@
-test("Este es el primer test", () => {
-  const isActive = false;
-  if (!isActive) {
-    throw new Error("El estado no es Activo");
-  }
+describe("Pruebas sobre base.test.js", () => {
+  test("deben ser iguales los strings", () => {
+    // 1.Inicialización
+    const mensaje = "Hola Mundo";
+
+    // 2.Estímulo
+    const mensaje2 = `Hola Mundo`;
+
+    // 3.Observar el comportamiento
+    expect(mensaje).toBe(mensaje2);
+  });
 });
