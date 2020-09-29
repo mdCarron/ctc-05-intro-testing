@@ -1,4 +1,4 @@
-# [Primeros Pasos en React](https://mdcarron-ctc-04-counterapp.netlify.app/)
+# [Introducción al testing](https://mdcarron-ctc-04-counterapp.netlify.app/)
 
 ## Deploy 🔻
 
@@ -10,18 +10,16 @@ Proyecto de aprendizaje realizado en el curso **React de Cero a Experto**, graci
 
 ## 🔍 Objetivos
 
-Que se aprendió con el proyecto?
+- Introducción a las pruebas unitarias y de integracion
+- Testing de funciones y async/await
+- Testing de componentes, props y eventos
 
 ## ✅ Tecnologías
 
 - Javascript
 - React
-  - Componentes
-  - Props
-  - PropTypes
-  - DefaultProps
-  - Events
-  - Hooks
+- Jest
+- Enzyme
 
 # Instrucciones
 
